@@ -1,0 +1,7 @@
+elefante.h
+
+f_elefante();
+f_jirafa();
+dog();
+duck();
+seal();

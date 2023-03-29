@@ -1,0 +1,27 @@
+elefante.h
+
+f_elefante()
+{
+	elefante;
+}
+
+
+f_jirafa()
+{
+	jirafa;
+}
+
+f_dog()
+{
+	dog;
+}
+
+f_duck()
+{
+	duck;
+}
+
+f_seal()
+{
+	seal;
+}
